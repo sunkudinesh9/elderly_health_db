@@ -1,0 +1,18 @@
+# Maven
+/target
+*.log
+
+# IDEs
+*.iml
+.idea/
+*.classpath
+*.project
+*.settings/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Secrets
+application.yml
+application.properties
